@@ -1,0 +1,41 @@
+.addTextModal {
+  text-align: left;
+  background-color: skyblue;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.addTextModal .modalInput {
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.addTextModal .contentsInput {
+  margin-bottom: 10px;
+  width: 100%;
+  height: 200px;
+}
+
+.addTextModal .addTextButtonHelp {
+  text-align: right;
+}
+
+.addTextModal .addTextButton {
+  margin-bottom: 10px;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.guideText {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+p {
+  margin: 0;
+}
